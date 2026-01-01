@@ -1,0 +1,6 @@
+torch
+transformers
+gradio
+ibm-watson-machine-learning
+langchain
+requests
